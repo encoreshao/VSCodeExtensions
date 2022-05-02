@@ -1,18 +1,24 @@
 # VS Code Extensions
 
-### AI - Code
+### Coding & Debugging
 
 - [GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot) - the popular AI programmer tool created by GitHub and OpenAI’s Codex to help auto-generate code based on the context you provide.
 - [Tabnine](https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode) - Code Faster with AI Completions
+- [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) - Code Spell Checker is a handy and widely used spell check that also works with camelCase code.
+- [Regex Previewer](https://marketplace.visualstudio.com/items?itemName=chrmarti.regex) - Shows the current regular expression's matches in a side-by-side document. This can be turned on/off with Ctrl+Alt+M (⌥⌘M).
+- [Beautify](https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify) - Beautify javascript, JSON, CSS, Sass, and HTML in Visual Studio Code.
 
 ### Screenshots
 
 - [Snipped](https://marketplace.visualstudio.com/items?itemName=JeffersonLicet.snipped&ssr=false#overview) - Create fancy screenshots of your code without leaving the editor.
+- [Polacode](https://marketplace.visualstudio.com/items?itemName=pnp.polacode) - Polaroid for your code 📸
 
-### Formatting
+### Formatting and Linting
 
 - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - Prettier is a formatting extension that automatically formats your code for you every time you save it
 - [Blockman](https://marketplace.visualstudio.com/items?itemName=leodevbro.blockman) - Highlight Nested Code Blocks
+- [Excel Viewer](https://marketplace.visualstudio.com/items?itemName=GrapeCity.gc-excelviewer) - Provides custom editors and previews for CSV files and Excel spreadsheets in Visual Studio Code.
+- [FiraCode](https://github.com/tonsky/FiraCode) - Fira Code: free monospaced font with programming ligatures
 
 ### Hot Live
 
