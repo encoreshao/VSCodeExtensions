@@ -6,7 +6,8 @@
 - [Tabnine](https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode) - Code Faster with AI Completions
 - [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) - Code Spell Checker is a handy and widely used spell check that also works with camelCase code.
 - [Regex Previewer](https://marketplace.visualstudio.com/items?itemName=chrmarti.regex) - Shows the current regular expression's matches in a side-by-side document. This can be turned on/off with Ctrl+Alt+M (⌥⌘M).
-- [Beautify](https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify) - Beautify javascript, JSON, CSS, Sass, and HTML in Visual Studio Code.
+- [Snippets](https://code.visualstudio.com/docs/editor/userdefinedsnippets) - Snippets are the best way to save time and increase your productivity.
+- [JavaScript (ES6) Code Snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets) - This extension contains code snippets for JavaScript in ES6 syntax for Vs Code editor (supports both JavaScript and TypeScript).
 
 ### Screenshots
 
@@ -16,6 +17,7 @@
 ### Formatting and Linting
 
 - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - Prettier is a formatting extension that automatically formats your code for you every time you save it
+- [Beautify](https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify) - Beautify javascript, JSON, CSS, Sass, and HTML in Visual Studio Code.
 - [Blockman](https://marketplace.visualstudio.com/items?itemName=leodevbro.blockman) - Highlight Nested Code Blocks
 - [Excel Viewer](https://marketplace.visualstudio.com/items?itemName=GrapeCity.gc-excelviewer) - Provides custom editors and previews for CSV files and Excel spreadsheets in Visual Studio Code.
 - [FiraCode](https://github.com/tonsky/FiraCode) - Fira Code: free monospaced font with programming ligatures
