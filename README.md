@@ -31,6 +31,10 @@
 
 - [AI Doc Writer](https://marketplace.visualstudio.com/items?itemName=mintlify.document) - AI powered documentation writer for JavaScript, Python, Java, Typescript & all other languages
 
+### Git
+
+- [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) supercharges the Git capabilities of Visual Studio Code. This is a powerful extension that allows you to see who, why, and how lines of code have changed over time (among lots of other features).
+
 ### Tools
 - [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense) - Visual Studio Code plugin that autocompletes filenames.
 - [Import Cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost) - This extension will display inline in the editor the size of the imported package. The extension utilizes webpack in order to detect the imported size.
