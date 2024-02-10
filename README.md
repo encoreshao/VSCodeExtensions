@@ -11,7 +11,7 @@
   | ------------- | ------------- | ------------- | ------------- | ------------- |
   | **Autocomplete Superpowers** | Use Natural Language | Minimize Boilerplate Coding | Find and Use APIs | Unit Test Generation |
   | **Chat Superpowers** | Generate | Explain | Refactor | Translate |
-  | | Generate code with simple natural language prompting and constraints <img src="https://exafunction.github.io/public/chat/chat_short_demo.gif" width="400"> | Explain everything you need to know <img src="https://exafunction.github.io/public/chat/chat_explain_function_python.gif" width="400"> | Rewrite your existing code <img src="https://exafunction.github.io/public/chat/chat_refactor_fix_todos.gif" width="400"> | Translate whole functions from one language <img src="https://exafunction.github.io/public/chat/chat_refactor_js_to_ts.gif" width="400"> |
+  | | Generate code with simple natural language prompting and constraints <img src="https://exafunction.github.io/public/chat/chat_short_demo.gif"> | Explain everything you need to know <img src="https://exafunction.github.io/public/chat/chat_explain_function_python.gif"> | Rewrite your existing code <img src="https://exafunction.github.io/public/chat/chat_refactor_fix_todos.gif"> | Translate whole functions from one language <img src="https://exafunction.github.io/public/chat/chat_refactor_js_to_ts.gif"> |
 - [Tabnine](https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode) - Code Faster with AI Completions
 - [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) - Code Spell Checker is a handy and widely used spell check that also works with camelCase code.
 - [Regex Previewer](https://marketplace.visualstudio.com/items?itemName=chrmarti.regex) - Shows the current regular expression's matches in a side-by-side document. This can be turned on/off with Ctrl+Alt+M (⌥⌘M).
@@ -28,7 +28,6 @@
 - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - Prettier is a formatting extension that automatically formats your code for you every time you save it
 - [Beautify](https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify) - Beautify javascript, JSON, CSS, Sass, and HTML in Visual Studio Code.
 - [Blockman](https://marketplace.visualstudio.com/items?itemName=leodevbro.blockman) - Highlight Nested Code Blocks
-- [Excel Viewer](https://marketplace.visualstudio.com/items?itemName=GrapeCity.gc-excelviewer) - Provides custom editors and previews for CSV files and Excel spreadsheets in Visual Studio Code.
 - [FiraCode](https://github.com/tonsky/FiraCode) - Fira Code: free monospaced font with programming ligatures
 
 ### Hot Live
@@ -53,7 +52,7 @@
 
 ### Productivity
 
-- [Excel Viewer](https://marketplace.visualstudio.com/items?itemName=GrapeCity.gc-excelviewer) - provides custom editors and previews for CSV files and Excel spreadsheets in Visual Studio Code
+- [Excel Viewer](https://marketplace.visualstudio.com/items?itemName=GrapeCity.gc-excelviewer) - Provides custom editors and previews for CSV files and Excel spreadsheets in Visual Studio Code
   | | |
   | ------------- | ------------- |
   | CSV Usage <img src="https://github.com/wijmo/gc-excelviewer/raw/HEAD/img/csv-preview-4.gif"> | Excel Usage <img src="https://github.com/wijmo/gc-excelviewer/raw/HEAD/img/excel-preview-4.gif"> |
