@@ -3,6 +3,15 @@
 ### Coding & Debugging
 
 - [GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot) - the popular AI programmer tool created by GitHub and OpenAI’s Codex to help auto-generate code based on the context you provide.
+  | | | | |
+  | ------------- | ------------- | ------------- | ------------- |
+  | Get Code Suggestions in real-time <img src="https://user-images.githubusercontent.com/37570492/212964557-8d832278-61bb-4288-a8a7-47f35859e868.gif"> | Convert comments to code <img src="https://user-images.githubusercontent.com/37570492/212965036-26579d9f-cfaf-44eb-90fb-76421dc7ab9d.gif"> | Create unit tests <img src="https://user-images.githubusercontent.com/37570492/212964557-8d832278-61bb-4288-a8a7-47f35859e868.gif"> | Create a SQL query <img src="https://user-images.githubusercontent.com/37570492/212965203-c9623e27-4fff-4961-a7f4-4d14625dd17c.gif"> |
+- [Codeium](https://marketplace.visualstudio.com/items?itemName=Codeium.codeium) - Free AI-powered code acceleration toolkit (**Recommendation**)
+  | | | | | |
+  | ------------- | ------------- | ------------- | ------------- | ------------- |
+  | **Autocomplete Superpowers** | Use Natural Language | Minimize Boilerplate Coding | Find and Use APIs | Unit Test Generation |
+  | **Chat Superpowers** | Generate | Explain | Refactor | Translate |
+  | | Generate code with simple natural language prompting and constraints <img src="https://exafunction.github.io/public/chat/chat_short_demo.gif" width="400"> | Explain everything you need to know <img src="https://exafunction.github.io/public/chat/chat_explain_function_python.gif" width="400"> | Rewrite your existing code <img src="https://exafunction.github.io/public/chat/chat_refactor_fix_todos.gif" width="400"> | Translate whole functions from one language <img src="https://exafunction.github.io/public/chat/chat_refactor_js_to_ts.gif" width="400"> |
 - [Tabnine](https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode) - Code Faster with AI Completions
 - [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) - Code Spell Checker is a handy and widely used spell check that also works with camelCase code.
 - [Regex Previewer](https://marketplace.visualstudio.com/items?itemName=chrmarti.regex) - Shows the current regular expression's matches in a side-by-side document. This can be turned on/off with Ctrl+Alt+M (⌥⌘M).
@@ -36,7 +45,15 @@
 - [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) supercharges the Git capabilities of Visual Studio Code. This is a powerful extension that allows you to see who, why, and how lines of code have changed over time (among lots of other features).
 
 ### Tools
+
 - [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense) - Visual Studio Code plugin that autocompletes filenames.
 - [Import Cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost) - This extension will display inline in the editor the size of the imported package. The extension utilizes webpack in order to detect the imported size.
 - [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) - GitLens simply helps you better understand code.
 - [Draw.io Integration](https://marketplace.visualstudio.com/items?itemName=hediet.vscode-drawio) - This unofficial extension integrates Draw.io into VS Code.
+
+### Productivity
+
+- [Excel Viewer](https://marketplace.visualstudio.com/items?itemName=GrapeCity.gc-excelviewer) - provides custom editors and previews for CSV files and Excel spreadsheets in Visual Studio Code
+  | | |
+  | ------------- | ------------- |
+  | CSV Usage <img src="https://github.com/wijmo/gc-excelviewer/raw/HEAD/img/csv-preview-4.gif"> | Excel Usage <img src="https://github.com/wijmo/gc-excelviewer/raw/HEAD/img/excel-preview-4.gif"> |
