@@ -13,6 +13,7 @@
   | **Chat Superpowers** | Generate | Explain | Refactor | Translate |
   | | Generate code with simple natural language prompting and constraints <img src="https://exafunction.github.io/public/chat/chat_short_demo.gif"> | Explain everything you need to know <img src="https://exafunction.github.io/public/chat/chat_explain_function_python.gif"> | Rewrite your existing code <img src="https://exafunction.github.io/public/chat/chat_refactor_fix_todos.gif"> | Translate whole functions from one language <img src="https://exafunction.github.io/public/chat/chat_refactor_js_to_ts.gif"> |
 - [Tabnine](https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode) - Code Faster with AI Completions
+- [Cline](https://marketplace.visualstudio.com/items?itemName=saoudrizwan.claude-dev)
 - [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) - Code Spell Checker is a handy and widely used spell check that also works with camelCase code.
 - [Regex Previewer](https://marketplace.visualstudio.com/items?itemName=chrmarti.regex) - Shows the current regular expression's matches in a side-by-side document. This can be turned on/off with Ctrl+Alt+M (⌥⌘M).
 - [Snippets](https://code.visualstudio.com/docs/editor/userdefinedsnippets) - Snippets are the best way to save time and increase your productivity.
